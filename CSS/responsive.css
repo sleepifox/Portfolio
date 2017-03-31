@@ -70,11 +70,13 @@
   }
   
   header {
-    border-bottom: 5px solid #00e6b8;
+    border-bottom: 5px solid #df1f2e;
     margin-bottom: 60px;
   }
   
-  
+nav a.selected, nav a:hover {
+  color: #df1f2e;
+}
   
   
   
